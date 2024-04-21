@@ -2,7 +2,7 @@ from setuptools import setup
 import setuptools
 
 setup(
-    name="Console Color",
+    name="ConsoleColor",
     author="RiritoNinigaya",
     author_email="riritoninigaya@hotmail.com",
     version="1.0",
